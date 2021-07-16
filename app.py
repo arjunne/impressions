@@ -2,7 +2,7 @@
 
 from aws_cdk import core
 
-from impressions.impressions_stack import ImpressionsStack
+from cdkstack.impressions_stack import ImpressionsStack
 
 
 app = core.App()
